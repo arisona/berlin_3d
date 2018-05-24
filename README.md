@@ -1,7 +1,7 @@
 # Esri CityEngine project with detailed 3D building models of Berlin Mitte
 
 This project contains a Esri CityEngine model with ground plane, streets, parcels and 3D models of Berlin Mitte (2x2km)
-based on the open data provided by Senatsverwaltung für Stadtentwicklung und Wohnen (https://www.stadtentwicklung.berlin.de/)
+based on the open data provided by Berlin's Senatsverwaltung für Stadtentwicklung und Wohnen (https://www.stadtentwicklung.berlin.de/).
 
 According to the copyright of the source data (see link above) you may use and modify this project 
 as you like, but commercial use is prohibited.
